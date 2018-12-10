@@ -5,5 +5,5 @@ In this experiment, if the number of sample of each speaker is less than n, we w
 <p align="center">
   <img src="figures/ss.PNG" width="450">
   <img src="figures/EER.PNG" width="600">
-  <img src="figures/vbgan_embedding.PNG" width="600">
+  <img src="figures/vbgan_embedding.png" width="600">
 </p>
